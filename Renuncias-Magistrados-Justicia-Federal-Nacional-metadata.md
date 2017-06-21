@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional
+### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional - estado al dd-mm-aaaa
 
--   **Nombre:** magistrados-justicia-federal-nacional-renuncia.csv
+-   **Nombre:** magistrados-justicia-federal-nacional-renuncias-estado-al-dd-mm-aaaa.csv
 
 -   **Descripción:** Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
