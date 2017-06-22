@@ -31,7 +31,7 @@ Recursos disponibles
 
 -   **Descripción:** Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
--   **Formato:** CSV delimitado por coma, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
