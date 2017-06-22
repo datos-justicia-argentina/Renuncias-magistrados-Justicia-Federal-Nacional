@@ -8,7 +8,7 @@ La Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder
 Características
 ---------------
 
--   **Fecha de Publicación:**
+-   **Fecha de Publicación:** 16/06/2017
 
 -   **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, cargo, federal, nacional, justicia, renuncias
 
@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional - estado al dd-mm-aaaa
+### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional - estado al DD-MM-AAAA
 
--   **Nombre:** magistrados-justicia-federal-nacional-renuncias-estado-al-dd-mm-aaaa.csv
+-   **Nombre:** magistrados-justicia-federal-nacional-renuncias-estado-al-DD-MM-AAAA.csv
 
 -   **Descripción:** Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
