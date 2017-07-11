@@ -1,4 +1,4 @@
-Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional
+enuncias de magistrados de la Justicia Federal y de la Justicia Nacional
 =========================================================================
 
 En este conjunto de datos se detalla las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional - AAAA-MM-DD
+### Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional – AAAA-MM-DD
 
 -   **Nombre:** magistrados-justicia-federal-nacional-renuncias-AAAA-MM-DD.csv
 
