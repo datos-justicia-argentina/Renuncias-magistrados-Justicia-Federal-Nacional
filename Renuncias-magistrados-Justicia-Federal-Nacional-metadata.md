@@ -1,7 +1,7 @@
 Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional
 =========================================================================
 
-En este conjunto de datos se detalla las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
+En este conjunto de datos se detallan las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina.
 
 La Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria.
 
