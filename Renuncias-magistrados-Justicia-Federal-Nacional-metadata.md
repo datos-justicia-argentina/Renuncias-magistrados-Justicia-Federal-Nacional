@@ -5,12 +5,14 @@ En este conjunto de datos se detallan las renuncias de jueces, fiscales y defens
 
 La Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria.
 
+http://datos.jus.gob.ar/dataset/renuncias-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 16/06/2017
 
--   **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, cargo, federal, nacional, justicia, renuncias
+-   **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, cargos, federales, nacionales, justicia, renuncias
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
@@ -29,7 +31,7 @@ Recursos disponibles
 
 -   **Nombre:** magistrados-justicia-federal-nacional-renuncias-AAAA-MM-DD.csv
 
--   **Descripción:** información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
+-   **Descripción del contenido:** se detallan las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
