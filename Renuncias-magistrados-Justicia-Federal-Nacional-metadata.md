@@ -35,7 +35,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** renuncias de magistrados hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** renuncias de magistrados desde el año 1999 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
