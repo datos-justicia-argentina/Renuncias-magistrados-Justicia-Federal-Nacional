@@ -53,7 +53,7 @@ Recursos disponibles
 
 -   **nombre_magistrado (string):** nombre del juez, fiscal o defensor
 
--   **magistrado_sexo (string):** sexo del magistrado
+-   **magistrado_genero (string):** género del magistrado
 
 -   **fecha_renuncia (date):** fecha de aceptación de la renuncia del juez, fiscal o defensor
 
