@@ -65,7 +65,14 @@ Recursos disponibles
 
 -   **ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la renuncia
 
--   **organo_provincia_id (int):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República. Hasta 05/2019 nombre campo organo_provincia_indec_id))
+-   **provincia_id (string):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República. Hasta 05/2019 nombre campo organo_provincia_indec_id)
+
+-   **provincia_nombre (string):** nombre de la provincia en la que se encuentra ubicado geográficamente el órgano
+
+-   **localidad_id (string):** código de la localidad en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC
+
+-   **localidad_nombre (string):** nombre de la localidad en la que se encuentra ubicado geográficamente el órgano
+
 
 ### Renuncias de magistrados de la Justicia Federal y la Justicia Nacional - AAAA
 
